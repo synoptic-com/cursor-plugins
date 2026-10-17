@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "synoptic": {
+      "url": "https://mcp.api.synoptic.com/mcp"
+    }
+  }
+}
